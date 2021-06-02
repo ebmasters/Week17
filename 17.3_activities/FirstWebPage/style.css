@@ -1,0 +1,13 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  /* Header Styles */
+  h1{
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p{
+    font-size: medium;
+    font-weight: 900;
+  }
